@@ -1,10 +1,8 @@
 **Project Description**
 This project involves predicting a binary outcome C based on 22 input features. Three machine learning models were evaluated:
 
-Logistic Regression
-
-Random Forest Classifier
-
+Logistic Regression,
+Random Forest Classifier,
 XGBoost Classifier (Final chosen model)
 
 **Final Model: XGBoost**
