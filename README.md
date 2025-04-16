@@ -8,10 +8,11 @@ XGBoost Classifier (Final chosen model)
 **Final Model: XGBoost**
 XGBoost gave the best balance between precision, recall, and F1-score, particularly for the minority class (label 1).
 
-Model	                Accuracy	Class 1 Recall	Class 1 F1
-Logistic Regression    	0.57	       0.89	          0.51
-Random Forest	          0.75        0.03	          0.05
-XGBoost                	0.63	       0.74          	0.49
+| Model              | Accuracy | Class 1 Recall | Class 1 F1 |
+|--------------------|----------|----------------|------------|
+| Logistic Regression| 0.57     | 0.89           | 0.51       |
+| Random Forest      | 0.75     | 0.03           | 0.05       |
+| **XGBoost**        | 0.63     | 0.74           | 0.49       |
 
 **Key Steps**
 Data cleaning and preprocessing (handling dates, scaling)
