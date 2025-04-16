@@ -14,7 +14,8 @@ XGBoost gave the best balance between precision, recall, and F1-score, particula
 | Random Forest      | 0.75     | 0.03           | 0.05       |
 | **XGBoost**        | 0.63     | 0.74           | 0.49       |
 
-**Key Steps**
+**Step-by-Step Process**
+
 **1. Load the Dataset**
 Loaded both training and testing data from text files.
 
