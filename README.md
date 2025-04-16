@@ -20,10 +20,6 @@ Model training and comparison
 Feature importance analysis
 Saving and exporting predictions
 
-**Files**
-model_comparison.ipynb - Notebooks comparing all 3 models
-final_model_xgb.py - Final version using only XGBoost
-results/ - Output files, plots, and predictions
 
 **Libraries Used**
 pandas, scikit-learn, xgboost, matplotlib, numpy
